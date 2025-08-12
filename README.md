@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm an IT student specializing in **Web and Mobile Applica
 - Deepening my knowledge in web and mobile application development to enhance my skills in building dynamic and responsive applications.
 
 ## Let's Connect!
--  Email: [mike.gomez@example.com](mailto:mike.gomez@example.com) *(Update with your actual email)*
--  LinkedIn: [linkedin.com/in/mikeandreigomez](https://linkedin.com/in/mikeandreigomez) *(Update with your actual LinkedIn URL)*
+-  Email: [mikeandreigomez32@gmail.com](mailto:mikeandreigomez32@gmail.com)
+-  LinkedIn: [linkedin.com/in/mikeandreigomez](https://linkedin.com/in/mikeandreigomez)
 
 Thanks for visiting my GitHub! Feel free to explore my repositories or reach out to discuss web development or potential collaborations!
