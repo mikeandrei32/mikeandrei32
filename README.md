@@ -14,8 +14,7 @@ Welcome to my GitHub! I'm an IT student specializing in **Web and Mobile Applica
 
 ## Let's Connect!
 -  Email: [mikeandreigomez32@gmail.com](mailto:mikeandreigomez32@gmail.com)
--  LinkedIn: [www.linkedin.com/in/
-mike-andrei-gomez-a08980379
+-  LinkedIn: [www.linkedin.com/in/mike-andrei-gomez-784670385
 ]([https://linkedin.com/in/mikeandreigomez])
 
 Thanks for visiting my GitHub! Feel free to explore my repositories or reach out to discuss web development or potential collaborations!
