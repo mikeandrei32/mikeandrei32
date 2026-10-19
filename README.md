@@ -1,20 +1,28 @@
-# Hi, I'm Mike Andrei M. Gomez!
+<h1 align="center">Hi 👋, I'm Mike Andrei M. Gomez</h1>
+<h3 align="center">IT student specializing in Web and Mobile Application Development</h3>
 
-Welcome to my GitHub! I'm an IT student specializing in **Web and Mobile Application Development**. I'm passionate about creating user-friendly and innovative web solutions, and I enjoy turning ideas into functional applications through code.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikeandrei32" alt="mikeandrei32" /></a> </p>
 
-## Technologies & Tools
-- **Languages**: JavaScript, Python
-- **Tools**: Git, VS Code
+- 🔭 I’m currently working on [KapitBayan](kapitbayan-ph.vercel.app/)
 
-## What I'm Working On
-- **The Odin Project**: Actively learning full-stack web development through hands-on projects and coursework to build a strong foundation in creating web applications.
+- 🌱 I’m currently learning **ASP.NET Core**
 
-## Currently Learning
-- Deepening my knowledge in web and mobile application development to enhance my skills in building dynamic and responsive applications.
+- 👨‍💻 All of my projects are available at [https://portfolio-two-zeta-6kd73e9622.vercel.app/](https://portfolio-two-zeta-6kd73e9622.vercel.app/)
 
-## Let's Connect!
--  Email: [mikeandreigomez8@gmail.com](mailto:mikeandreigomez8@gmail.com)
--  LinkedIn: [www.linkedin.com/in/mike-andrei-gomez-784670385
-]([https://linkedin.com/in/mikeandreigomez])
+- 📫 How to reach me **mikeandreigomez97@gmail.com**
 
-Thanks for visiting my GitHub! Feel free to explore my repositories or reach out to discuss web development or potential collaborations!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mike-andrei-gomez-784670385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mike-andrei-gomez-784670385" height="30" width="40" /></a>
+<a href="https://instagram.com/yourboiimaiku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourboiimaiku" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikeandrei32&show_icons=true&locale=en&layout=compact" alt="mikeandrei32" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeandrei32&show_icons=true&locale=en" alt="mikeandrei32" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeandrei32&" alt="mikeandrei32" /></p>
+
